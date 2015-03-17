@@ -20,7 +20,7 @@
 	/* jshint validthis: true */
 
 	var ELEMENT_DELIMITER = '__',
-		MODIFIER_DELIMITER = '_',
+		MODIFIER_DELIMITER = '-',
 		WHITESPACE = ' ';
 
 	/**
